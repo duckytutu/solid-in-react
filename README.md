@@ -3,10 +3,15 @@
 ![SOLID.png](src/assets/img.png)
 
 - SRP: Single Responsibility Principle
+  - Every class should have only one responsibility
 - OCP: Open-Closed Principle
+  - Software entities should be open for extension but closed for modification
 - LSP: Liskov Substitution Principle
+  - Subtype objects should be substitutable for super type object
 - ISP: Interface Segregation Principle
+  - Clients should not depends upon interfaces that they don't use 
 - DIP: Dependency Inversion Principle
+  - One entity should depends on abstractions not concretions
 
 All the principles are explained on CoderOne's youtube channel: https://youtu.be/MSq_DCRxOxw
 
