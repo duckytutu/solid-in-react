@@ -1,4 +1,4 @@
-// import { Bad } from "./Bad.tsx";
+// import { Bad } from "./BadButton.tsx";
 import { Good } from './Good';
 
 export function SRP() {
